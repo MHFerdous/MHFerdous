@@ -8,7 +8,3 @@ Flutter Developer
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MHFerdous&repo=My_Campus_Project) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MHFerdous&repo=Crafty_Bay_E-Commerce_Project)
 
-##
-
-![Visitor Count](https://profile-counter.glitch.me/{MHFerdous}/count.svg)
-
