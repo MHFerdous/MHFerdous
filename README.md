@@ -1,4 +1,7 @@
 ### <div align="center">Hi, I'm Ferdous, 
+
+<br/>  
+
 I am a student in the CSE Department and a Flutter Developer.</div>  
   
 
@@ -8,7 +11,7 @@ I am a student in the CSE Department and a Flutter Developer.</div>
 - 🔭 I’m currently working on [My Campus App](https://github.com/HasanJuned/My_Campus) Project  
   
 
-- 🔎 Looking for Flutter Developer Junior Position  
+- 🔎 Looking for a Flutter Developer Junior Position  
   
 
 <br/>  
@@ -53,7 +56,10 @@ I am a student in the CSE Department and a Flutter Developer.</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mhferdous&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mhferdous&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
+</div>
+
 
 <br/>  
 
