@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Ferdous, 
+## <div align="center">Hi, I'm Ferdous, 
 
 <br/>  
 
@@ -73,9 +73,3 @@ I am a student in the CSE Department and a Flutter Developer.</div>
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
