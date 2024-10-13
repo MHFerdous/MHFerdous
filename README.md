@@ -1,4 +1,4 @@
-### <div align="center">><b>Hi, I'm Ferdous,</b>
+### <div align="center">Hi, I'm Ferdous,
 
 <br/>  
 
