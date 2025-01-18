@@ -5,7 +5,7 @@
 I am a student in the CSE Department and a Flutter Developer.</div>  
   
 
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 I’m currently learning Back-end Development
   
 
 - 🔭 I’m currently working on [My Campus App](https://github.com/HasanJuned/My_Campus) Project  
@@ -59,17 +59,3 @@ I am a student in the CSE Department and a Flutter Developer.</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mhferdous&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
 </div>
-
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mhferdous&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
