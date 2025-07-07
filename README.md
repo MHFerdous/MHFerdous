@@ -1,5 +1,5 @@
 # 💫 Hi, I am MH Ferdous:
-👨‍🎓 A Computer Science graduate and a Flutter Developer.<br>🔎 Looking for a Junior Flutter Developer position<br>✅ Recently completed my thesis<br>🌱 Currently learning Full-Stack Web Development
+👨‍🎓 A CSE graduate and a Flutter Developer.<br>🔎 Looking for a Junior Flutter Developer position<br>✅ Recently completed thesis<br>🌱 Currently learning Full-Stack Web Development
 
 
 ## 🌐 Socials:
