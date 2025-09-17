@@ -1,5 +1,5 @@
 # 💫 Hi, I am MH Ferdous
-👨‍🎓 A CSE graduate<br>👨‍🎓 Junior Flutter Developer at SM Technology<br>✅ Recently completed thesis
+👨‍🎓 A CSE graduate<br>🦋 Junior Flutter Developer at SM Technology<br>✅ Recently completed thesis
 
 
 ## 🌐 Socials:
