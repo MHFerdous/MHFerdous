@@ -1,7 +1,7 @@
 # 💫 Hi, I am MH Ferdous
 🦋 Junior Flutter Developer at SM Technology <br>👨‍🎓 A CSE graduate <br>✅ Recently completed thesis
 
-## Coding Time:
+## 👨🏽‍💻 Coding Time:
 ![wakatime](https://wakatime.com/badge/user/999e07ee-64a4-4de4-b237-194c48664233.svg)
 
 ## 🌐 Socials:
@@ -15,9 +15,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MHFerdous&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=MHFerdous&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=MHFerdous&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
