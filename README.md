@@ -16,5 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=MHFerdous&theme=radical&no-frame=true&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHFerdous&theme=dark)
 
