@@ -16,8 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=MHFerdous&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MHFerdous&theme=radical&no-frame=true&cache_seconds=86400)
 
 ## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=MHFerdous&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MHFerdous&limit=5&theme=dark&cache_seconds=86400)
 
