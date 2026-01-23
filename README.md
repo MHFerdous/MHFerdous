@@ -18,6 +18,3 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=MHFerdous&theme=radical&no-frame=true&cache_seconds=86400)
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=MHFerdous&limit=5&theme=dark&cache_seconds=86400)
-
