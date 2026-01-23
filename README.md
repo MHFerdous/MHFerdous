@@ -26,23 +26,12 @@
 
 ### 📱 Mobile Application Development
 
-### 📱 Mobile Application Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-- Flutter (Material UI, Cupertino)
-- Dart (OOP, async/await)
-- REST API integration
-- Firebase Authentication & Firestore
-
-
-
-- Flutter (Material UI, Cupertino)
-- Dart (OOP, async/await)
+- Flutter
+- Dart
 - Responsive UI & state management
 - REST API integration
-- Firebase Authentication & Firestore
+- Firebase
+- Supabse
 
 ### 🌐 Frontend Development
 - HTML5, CSS3
@@ -51,17 +40,20 @@
 
 ### 🧠 Programming Languages
 - Dart
-- C, C++
+- C
+- C++
 - Python
 - Java
 - PHP
 
 ### ☁️ Backend, Database & Dev Tools
-- Firebase, Supabase
-- MongoDB, MySQL
-- Git & GitHub (version control)
-- Postman (API testing)
-- Jira (Agile & issue tracking)
+- Firebase
+- Supabase
+- MongoDB
+- MySQL
+- Git & GitHub
+- Postman
+- Jira
 
 ---
 
