@@ -4,7 +4,7 @@
 🦋 **Junior Flutter Developer** at **SM Technology**  
 🎓 **BSc in Computer Science & Engineering (CSE)**  
 📘 Completed academic **thesis**  
-🌐 **Portfolio:** https://mhferdous.netlify.app  
+🌐 **Portfolio:** [https://mhferdous.netlify.app ](https://mhferdous.netlify.app/) 
 
 📍 Open to **Onsite & Remote Junior Flutter Developer roles**
 
