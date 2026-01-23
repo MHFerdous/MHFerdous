@@ -48,10 +48,11 @@
 
 ---
 
-## 📈 GitHub Overview
-![](https://github-readme-stats.vercel.app/api?username=MHFerdous&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&theme=dark&hide_border=true&layout=compact)
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MHFerdous&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
