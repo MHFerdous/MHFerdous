@@ -55,7 +55,7 @@
 - Jira
 
 ---
-
+<!--
 ## 📊 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MHFerdous&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -63,7 +63,7 @@
 </p>
 
 ---
-
+-->
 ## 📈 Contribution & Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHFerdous&theme=tokyonight)
 
