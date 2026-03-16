@@ -98,7 +98,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 
 </div>
 
-### 🏃 Daily Miles — Walk-to-Earn Mobile App
+### 🏃 Daily Miles: Walk-to-Earn Mobile App
 
 > Walk-to-Earn app connecting health-conscious users with local businesses through step-based rewards.
 
