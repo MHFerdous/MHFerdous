@@ -31,9 +31,9 @@
 Name       : Md Mahmud Hossain Ferdous
 Role       : Junior Flutter Developer
 Company    : SM Technology
-Education  : BSc in Computer Science & Engineering (CSE)
-App        : 🚀 Daily Miles — Live on Google Play Store
-Status     : 🟢 Actively Seeking Junior Flutter Developer Roles
+Education  : BSc in CSE | Graduated June 2025 | CGPA 3.40/4.00
+App        : Daily Miles — Live on Google Play Store
+Status     : Actively Seeking Junior Flutter Developer Roles
 Location   : Open to Onsite & Remote Opportunities
 ```
 
@@ -114,11 +114,11 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 
 | Feature | Description |
 |---------|-------------|
-| 🦶 Step Tracking | Background step tracking with real-time synchronization |
-| 📍 Geo-fenced Deals | Location-aware business offers triggered by proximity |
-| 🏆 Leaderboards | Competitive rankings and achievement streaks |
-| 🌍 Bilingual | Full English & Dutch language support |
-| 🌙 Dark Mode | Adaptive theming with dark & light mode |
+| Step Tracking | Background step tracking with real-time synchronization |
+| Geo-fenced Deals | Location-aware business offers triggered by proximity |
+| Leaderboards | Competitive rankings and achievement streaks |
+| Bilingual | Full English & Dutch language support |
+| Dark Mode | Adaptive theming with dark & light mode |
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 
 <div align="center">
 
-I'm actively seeking **Junior Flutter Developer** roles — onsite or remote.  
+I'm actively seeking **Junior Flutter Developer** roles, onsite or remote.  
 Whether you have an opportunity, a project, or just want to connect, feel free to reach out!
 
 <br/>
