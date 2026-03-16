@@ -122,7 +122,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 
 <div align="center">
 
-[![Download on Play Store](https://img.shields.io/badge/▶%20Download%20Daily%20Miles-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smtechnology.dailymiles)
+[![Download on Play Store](https://img.shields.io/badge/▶%20Download%20Daily%20Miles-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dailymiles.app&pcampaignid=web_share)
 
 </div>
 
