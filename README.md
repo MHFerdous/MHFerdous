@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=MH%20Ferdous&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Junior%20Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=MH%20Ferdous&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Junior%20Flutter%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Open to Work Badge -->
 <br/>
