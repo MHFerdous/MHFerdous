@@ -25,13 +25,14 @@
 
 ## 👨‍💻 About Me
 
-> **Junior Flutter Developer** with hands-on experience building scalable, production-ready mobile applications. Currently contributing at **SM Technology**, with a strong foundation in computer science and a passion for clean, user-centric design.
+> **Junior Flutter Developer** with hands-on experience building and **publishing production-ready mobile applications** to the Google Play Store. Currently contributing at **SM Technology**, with a strong foundation in computer science and a passion for clean, user-centric design.
 
 ```yaml
 Name       : Md Mahmud Hossain Ferdous
 Role       : Junior Flutter Developer
 Company    : SM Technology
 Education  : BSc in Computer Science & Engineering (CSE)
+App        : 🚀 Daily Miles — Live on Google Play Store
 Status     : 🟢 Actively Seeking Junior Flutter Developer Roles
 Location   : Open to Onsite & Remote Opportunities
 ```
@@ -53,6 +54,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ---
 
@@ -84,6 +86,45 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📱 Published App
+
+<div align="center">
+
+[![Play Store](https://img.shields.io/badge/Google%20Play-Published-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smtechnology.dailymiles)
+![Status](https://img.shields.io/badge/Status-Live%20on%20Play%20Store-brightgreen?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+### 🏃 Daily Miles — Walk-to-Earn Mobile App
+
+> Walk-to-Earn app connecting health-conscious users with local businesses through step-based rewards.
+
+**Tech Stack:**
+
+![Flutter](https://img.shields.io/badge/Flutter%20%2B%20GetX-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Geolocation](https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+**✨ Key Features:**
+
+| Feature | Description |
+|---------|-------------|
+| 🦶 Step Tracking | Background step tracking with real-time synchronization |
+| 📍 Geo-fenced Deals | Location-aware business offers triggered by proximity |
+| 🏆 Leaderboards | Competitive rankings and achievement streaks |
+| 🌍 Bilingual | Full English & Dutch language support |
+| 🌙 Dark Mode | Adaptive theming with dark & light mode |
+
+<div align="center">
+
+[![Download on Play Store](https://img.shields.io/badge/▶%20Download%20Daily%20Miles-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smtechnology.dailymiles)
+
+</div>
 
 ---
 
