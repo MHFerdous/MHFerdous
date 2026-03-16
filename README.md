@@ -1,80 +1,138 @@
-# 👋 Hi, I’m **MH Ferdous**
-### Junior Flutter Developer | Mobile App Developer | CSE Graduate
+<div align="center">
 
-🦋 **Junior Flutter Developer** at **SM Technology**  
-🎓 **BSc in Computer Science & Engineering (CSE)**  
-📘 Completed academic **thesis**  
-🌐 **Portfolio:** [https://mhferdous.netlify.app ](https://mhferdous.netlify.app/) 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=MH%20Ferdous&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Junior%20Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-📍 Open to **Onsite & Remote Junior Flutter Developer roles**
+<!-- Open to Work Badge -->
+<br/>
+
+![Open to Work](https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Junior%20Flutter%20Developer%20Roles-brightgreen?style=for-the-badge&labelColor=0d1117)
+
+<br/><br/>
+
+<!-- Contact Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mhferdous.netlify.app-0072FF?style=for-the-badge&logoColor=white)](https://mhferdous.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdousmh/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudhossainferdous@gmail.com)
+
+<br/>
+
+![WakaTime](https://wakatime.com/badge/user/999e07ee-64a4-4de4-b237-194c48664233.svg?style=flat-square)
+
+</div>
 
 ---
 
-## ⏱️ Coding Activity
-![WakaTime](https://wakatime.com/badge/user/999e07ee-64a4-4de4-b237-194c48664233.svg)
+## 👨‍💻 About Me
+
+> **Junior Flutter Developer** with hands-on experience building scalable, production-ready mobile applications. Currently contributing at **SM Technology**, with a strong foundation in computer science and a passion for clean, user-centric design.
+
+```yaml
+Name       : MH Ferdous
+Role       : Junior Flutter Developer
+Company    : SM Technology
+Education  : BSc in Computer Science & Engineering (CSE)
+Status     : 🟢 Actively Seeking Junior Flutter Developer Roles
+Location   : Open to Onsite & Remote Opportunities
+```
 
 ---
 
-## 🤝 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdousmh/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudhossainferdous@gmail.com)
+## 🚀 Career Objective
+
+Junior Flutter Developer with practical experience delivering scalable mobile apps using Flutter, Dart, Firebase, and Supabase. Strong grasp of REST APIs, state management, responsive UI, and version control workflows. Seeking to join a forward-thinking team where I can contribute to impactful, real-world products and grow as a mobile engineer.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📱 Mobile Application Development
+### 📱 Mobile Development — *Core Expertise*
 
-- Flutter
-- Dart
-- Responsive UI & state management
-- REST API integration
-- Firebase
-- Supabse
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🌐 Frontend Development
-- HTML5, CSS3
-- JavaScript
-- Bootstrap
+| Skill | Level |
+|-------|-------|
+| Flutter & Dart | ████████████ Advanced |
+| Responsive UI Design | ███████████░ Strong |
+| State Management | ██████████░░ Proficient |
+| REST API Integration | ██████████░░ Proficient |
+| Firebase / Supabase | █████████░░░ Proficient |
+
+---
+
+### 🌐 Frontend & Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
 
 ### 🧠 Programming Languages
-- Dart
-- C
-- C++
-- Python
-- Java
-- PHP
 
-### ☁️ Backend, Database & Dev Tools
-- Firebase
-- Supabase
-- MongoDB
-- MySQL
-- Git & GitHub
-- Postman
-- Jira
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
-<!--
-## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHFerdous&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
+### ☁️ Backend, Database & DevTools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
--->
-## 📈 Contribution & Activity
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MHFerdous&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHFerdous&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHFerdous&theme=tokyonight)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=MHFerdous&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=MHFerdous&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
-## 🎯 Career Objective
-Junior Flutter Developer with hands-on experience in building scalable mobile applications using Flutter and Dart. Strong foundation in computer science, REST APIs, Firebase, Supabase and version control. Seeking opportunities to contribute to real-world projects, grow as a mobile engineer, and deliver high-quality user-centric applications.
+## 📬 Let's Connect
 
----
+<div align="center">
 
-⭐ **Actively seeking Junior Flutter Developer roles**  
-📬 Feel free to connect or reach out for collaboration or opportunities.
+I'm actively seeking **Junior Flutter Developer** roles — onsite or remote.  
+Whether you have an opportunity, a project, or just want to connect, feel free to reach out!
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-mhferdous.netlify.app-0072FF?style=for-the-badge)](https://mhferdous.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ferdousmh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdousmh/)
+[![Email](https://img.shields.io/badge/Email-mahmudhossainferdous%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudhossainferdous@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer" />
+
+</div>
