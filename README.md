@@ -28,7 +28,7 @@
 > **Junior Flutter Developer** with hands-on experience building scalable, production-ready mobile applications. Currently contributing at **SM Technology**, with a strong foundation in computer science and a passion for clean, user-centric design.
 
 ```yaml
-Name       : MH Ferdous
+Name       : Md Mahmud Hossain Ferdous
 Role       : Junior Flutter Developer
 Company    : SM Technology
 Education  : BSc in Computer Science & Engineering (CSE)
@@ -53,14 +53,6 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-| Skill | Level |
-|-------|-------|
-| Flutter & Dart | ████████████ Advanced |
-| Responsive UI Design | ███████████░ Strong |
-| State Management | ██████████░░ Proficient |
-| REST API Integration | ██████████░░ Proficient |
-| Firebase / Supabase | █████████░░░ Proficient |
 
 ---
 
