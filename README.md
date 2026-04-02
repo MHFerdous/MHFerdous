@@ -32,7 +32,6 @@ Name       : Md Mahmud Hossain Ferdous
 Role       : Junior Flutter Developer
 Company    : SM Technology
 Education  : BSc in CSE | Graduated June 2025 | CGPA 3.40/4.00
-App        : Daily Miles — Live on Google Play Store
 Status     : Actively Seeking Junior Flutter Developer Roles
 Location   : Open to Onsite & Remote Opportunities
 ```
