@@ -88,12 +88,6 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 
 ---
 ## 📱 Published App
-<div align="center">
-
-[![Play Store](https://img.shields.io/badge/Google%20Play-Published-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dailymiles.app&pcampaignid=web_share)
-[![App Store](https://img.shields.io/badge/App%20Store-Published-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/daily-miles/idYOUR_APP_STORE_ID)
-
-</div>
 
 ### 🏃 Daily Miles: Walk-to-Earn Mobile App
 > Walk-to-Earn app connecting health-conscious users with local businesses through step-based rewards.
@@ -115,7 +109,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 | Bilingual | Full English & Dutch language support |
 | Dark Mode | Adaptive theming with dark & light mode |
 
-<div align="center">
+<div>
 
 [![Download on Play Store](https://img.shields.io/badge/▶%20Download%20Daily%20Miles-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dailymiles.app&pcampaignid=web_share)
 [![Download on App Store](https://img.shields.io/badge/%20Download%20Daily%20Miles-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/daily-miles/idYOUR_APP_STORE_ID)
