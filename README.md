@@ -87,22 +87,19 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-
 ## 📱 Published App
-
 <div align="center">
 
 [![Play Store](https://img.shields.io/badge/Google%20Play-Published-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dailymiles.app&pcampaignid=web_share)
-![Status](https://img.shields.io/badge/Status-Live%20on%20Play%20Store-brightgreen?style=for-the-badge&labelColor=0d1117)
+[![App Store](https://img.shields.io/badge/App%20Store-Published-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/daily-miles/idYOUR_APP_STORE_ID)
+![Status](https://img.shields.io/badge/Status-Live%20on%20Play%20Store%20%26%20App%20Store-brightgreen?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ### 🏃 Daily Miles: Walk-to-Earn Mobile App
-
 > Walk-to-Earn app connecting health-conscious users with local businesses through step-based rewards.
 
 **Tech Stack:**
-
 ![Flutter](https://img.shields.io/badge/Flutter%20%2B%20GetX-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -110,7 +107,6 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 ![Geolocation](https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 **✨ Key Features:**
-
 | Feature | Description |
 |---------|-------------|
 | Step Tracking | Background step tracking with real-time synchronization |
@@ -122,6 +118,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 <div align="center">
 
 [![Download on Play Store](https://img.shields.io/badge/▶%20Download%20Daily%20Miles-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dailymiles.app&pcampaignid=web_share)
+[![Download on App Store](https://img.shields.io/badge/%20Download%20Daily%20Miles-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/daily-miles/idYOUR_APP_STORE_ID)
 
 </div>
 
