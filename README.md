@@ -87,7 +87,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-## 📱 Published App
+## 📱 Published Apps
 
 ### 🏃 Daily Miles: Walk-to-Earn Mobile App
 > Walk-to-Earn app connecting health-conscious users with local businesses through step-based rewards.
@@ -115,6 +115,33 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 [![Download on App Store](https://img.shields.io/badge/%20Download%20Daily%20Miles-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/daily-miles/id6759960762)
 
 </div>
+
+---
+
+### ☕ aLMOKA: Yemeni Coffee Ordering App
+> App to order authentic Yemeni coffee and treats from Rockford’s first gourmet coffee shop.
+
+**Tech Stack:**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook-7B61FF?style=for-the-badge&logo=webhooks&logoColor=white)
+
+**📌 Project Details:**
+| Info | Details |
+|------|---------|
+| Role | Co Developer (Team of 2) |
+| Timeline | 3 Months |
+| Key Challenge | Integrating a seamless and consistent payment system |
+
+**✨ Key Features:**
+| Feature | Description |
+|---------|-------------|
+| Online Ordering | Smooth coffee and dessert ordering experience |
+| Secure Payments | Integrated, stable, and reliable payment workflow |
+| Real-time Order Updates | Instant order status synchronization |
+| Modern UI | Clean and user-friendly customer interface |
+| API Integration | Connected backend services using REST APIs & webhooks |
 
 ---
 
