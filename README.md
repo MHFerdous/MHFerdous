@@ -122,7 +122,7 @@ Junior Flutter Developer with practical experience delivering scalable mobile ap
 
 **Tech Stack:**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%20%2B%20GetX-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Webhook](https://img.shields.io/badge/Webhook-7B61FF?style=for-the-badge&logo=webhooks&logoColor=white)
